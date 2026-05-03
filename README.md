@@ -1,6 +1,8 @@
 🐾 Animal Intrusion Monitoring System
 An AI-powered smart surveillance system that detects animal intrusion in farms, plantations, and restricted areas using Raspberry Pi, PIR sensors, and Deep Learning. The system captures images, identifies animals, and sends instant Telegram alerts to users.
 
+Dataset Link: https://drive.google.com/drive/folders/1G1w57rr8-ZS8vRcBXNV5wmIlRkErSIqu?usp=sharing
+
 🚀 Features
 
 
